@@ -1,0 +1,2 @@
+This project demonstrates a simple website built in PHP. It demonstrates some basic techniques for a non-database site. The project is discussed in a Make Use Of article.
+
